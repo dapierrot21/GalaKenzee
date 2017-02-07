@@ -32,6 +32,7 @@ header h1 {
   float: left;
   margin: 5px 0px;
   color: white;
+  font-family: 'Pangolin', cursive;
 }
 
 header nav ul {
@@ -119,10 +120,10 @@ section .illustration {
 
 section p {
   color: white;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Pangolin', cursive;
   font-weight: 300;
-  font-size: 1em;
-  line-height: 25px;
+  font-size: 1.em;
+  line-height: 17px;
   padding-bottom: 17px;
 }
 
